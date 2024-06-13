@@ -1,0 +1,512 @@
+{
+    "0.001": {
+        "robert_sajina": {
+            "iterations": 167,
+            "test_acc": 0.24629630148410797
+        },
+        "romeo_sajina": {
+            "iterations": 1000,
+            "test_acc": 0.44328704476356506
+        },
+        "alesandro_zuzic": {
+            "iterations": 102,
+            "test_acc": 0.3787037134170532
+        },
+        "luka_blaskovic": {
+            "iterations": 114,
+            "test_acc": 0.3453703820705414
+        },
+        "laura_loncaric": {
+            "iterations": 71,
+            "test_acc": 0.2465277761220932
+        },
+        "matej_visnjic": {
+            "iterations": 18,
+            "test_acc": 0.30532407760620117
+        },
+        "matija_hamer": {
+            "iterations": 22,
+            "test_acc": 0.35370370745658875
+        },
+        "rafael_krstacic": {
+            "iterations": 23,
+            "test_acc": 0.3516203761100769
+        }
+    },
+    "0.005": {
+        "robert_sajina": {
+            "iterations": 181,
+            "test_acc": 0.5006944537162781
+        },
+        "romeo_sajina": {
+            "iterations": 205,
+            "test_acc": 0.6722221970558167
+        },
+        "alesandro_zuzic": {
+            "iterations": 1000,
+            "test_acc": 0.5032407641410828
+        },
+        "luka_blaskovic": {
+            "iterations": 133,
+            "test_acc": 0.4337962865829468
+        },
+        "laura_loncaric": {
+            "iterations": 848,
+            "test_acc": 0.5789352059364319
+        },
+        "matej_visnjic": {
+            "iterations": 20,
+            "test_acc": 0.3002314865589142
+        },
+        "matija_hamer": {
+            "iterations": 153,
+            "test_acc": 0.5442129373550415
+        },
+        "rafael_krstacic": {
+            "iterations": 148,
+            "test_acc": 0.5562499761581421
+        }
+    },
+    "0.01": {
+        "robert_sajina": {
+            "iterations": 375,
+            "test_acc": 0.5145833492279053
+        },
+        "romeo_sajina": {
+            "iterations": 102,
+            "test_acc": 0.6006944179534912
+        },
+        "alesandro_zuzic": {
+            "iterations": 213,
+            "test_acc": 0.4703703820705414
+        },
+        "luka_blaskovic": {
+            "iterations": 210,
+            "test_acc": 0.42592594027519226
+        },
+        "laura_loncaric": {
+            "iterations": 303,
+            "test_acc": 0.36921295523643494
+        },
+        "matej_visnjic": {
+            "iterations": 51,
+            "test_acc": 0.3159722089767456
+        },
+        "matija_hamer": {
+            "iterations": 210,
+            "test_acc": 0.48240742087364197
+        },
+        "rafael_krstacic": {
+            "iterations": 60,
+            "test_acc": 0.45717594027519226
+        }
+    },
+    "0.025": {
+        "robert_sajina": {
+            "iterations": 786,
+            "test_acc": 0.7863426208496094
+        },
+        "romeo_sajina": {
+            "iterations": 762,
+            "test_acc": 0.8506944179534912
+        },
+        "alesandro_zuzic": {
+            "iterations": 1020,
+            "test_acc": 0.7331018447875977
+        },
+        "luka_blaskovic": {
+            "iterations": 840,
+            "test_acc": 0.6685185432434082
+        },
+        "laura_loncaric": {
+            "iterations": 438,
+            "test_acc": 0.42939814925193787
+        },
+        "matej_visnjic": {
+            "iterations": 816,
+            "test_acc": 0.6372685432434082
+        },
+        "matija_hamer": {
+            "iterations": 354,
+            "test_acc": 0.6726852059364319
+        },
+        "rafael_krstacic": {
+            "iterations": 798,
+            "test_acc": 0.7351852059364319
+        }
+    },
+    "0.05": {
+        "robert_sajina": {
+            "iterations": 11000,
+            "test_acc": 0.9150462746620178
+        },
+        "romeo_sajina": {
+            "iterations": 1595,
+            "test_acc": 0.9118055701255798
+        },
+        "alesandro_zuzic": {
+            "iterations": 1331,
+            "test_acc": 0.831944465637207
+        },
+        "luka_blaskovic": {
+            "iterations": 1540,
+            "test_acc": 0.8166666626930237
+        },
+        "laura_loncaric": {
+            "iterations": 1969,
+            "test_acc": 0.7715277671813965
+        },
+        "matej_visnjic": {
+            "iterations": 1738,
+            "test_acc": 0.8222222328186035
+        },
+        "matija_hamer": {
+            "iterations": 1925,
+            "test_acc": 0.8682870268821716
+        },
+        "rafael_krstacic": {
+            "iterations": 2376,
+            "test_acc": 0.8597221970558167
+        }
+    },
+    "0.1": {
+        "robert_sajina": {
+            "iterations": 17388,
+            "test_acc": 0.9717592597007751
+        },
+        "romeo_sajina": {
+            "iterations": 19404,
+            "test_acc": 0.9886574149131775
+        },
+        "alesandro_zuzic": {
+            "iterations": 3654,
+            "test_acc": 0.9129629731178284
+        },
+        "luka_blaskovic": {
+            "iterations": 4620,
+            "test_acc": 0.9222221970558167
+        },
+        "laura_loncaric": {
+            "iterations": 3696,
+            "test_acc": 0.9479166865348816
+        },
+        "matej_visnjic": {
+            "iterations": 8148,
+            "test_acc": 0.9381944537162781
+        },
+        "matija_hamer": {
+            "iterations": 3360,
+            "test_acc": 0.948379635810852
+        },
+        "rafael_krstacic": {
+            "iterations": 5607,
+            "test_acc": 0.9608796238899231
+        }
+    },
+    "0.2": {
+        "robert_sajina": {
+            "iterations": 13202,
+            "test_acc": 0.9932870268821716
+        },
+        "romeo_sajina": {
+            "iterations": 25133,
+            "test_acc": 0.9976851940155029
+        },
+        "alesandro_zuzic": {
+            "iterations": 18204,
+            "test_acc": 0.9865740537643433
+        },
+        "luka_blaskovic": {
+            "iterations": 15006,
+            "test_acc": 0.9939814805984497
+        },
+        "laura_loncaric": {
+            "iterations": 9061,
+            "test_acc": 0.9958333373069763
+        },
+        "matej_visnjic": {
+            "iterations": 23944,
+            "test_acc": 0.9974536895751953
+        },
+        "matija_hamer": {
+            "iterations": 23247,
+            "test_acc": 0.9988425970077515
+        },
+        "rafael_krstacic": {
+            "iterations": 18040,
+            "test_acc": 0.9988425970077515
+        }
+    },
+    "0.3": {
+        "robert_sajina": {
+            "iterations": 11712,
+            "test_acc": 0.9995370507240295
+        },
+        "romeo_sajina": {
+            "iterations": 1952,
+            "test_acc": 0.9946759343147278
+        },
+        "alesandro_zuzic": {
+            "iterations": 15738,
+            "test_acc": 0.998379647731781
+        },
+        "luka_blaskovic": {
+            "iterations": 5246,
+            "test_acc": 0.9856481552124023
+        },
+        "laura_loncaric": {
+            "iterations": 10004,
+            "test_acc": 0.9988425970077515
+        },
+        "matej_visnjic": {
+            "iterations": 10553,
+            "test_acc": 0.9995370507240295
+        },
+        "matija_hamer": {
+            "iterations": 9150,
+            "test_acc": 0.9979166388511658
+        },
+        "rafael_krstacic": {
+            "iterations": 9150,
+            "test_acc": 0.9969907402992249
+        }
+    },
+    "0.4": {
+        "robert_sajina": {
+            "iterations": 34506,
+            "test_acc": 1.0
+        },
+        "romeo_sajina": {
+            "iterations": 24057,
+            "test_acc": 1.0
+        },
+        "alesandro_zuzic": {
+            "iterations": 8910,
+            "test_acc": 0.9979166388511658
+        },
+        "luka_blaskovic": {
+            "iterations": 14742,
+            "test_acc": 0.9997684955596924
+        },
+        "laura_loncaric": {
+            "iterations": 11745,
+            "test_acc": 0.9990741014480591
+        },
+        "matej_visnjic": {
+            "iterations": 13365,
+            "test_acc": 1.0
+        },
+        "matija_hamer": {
+            "iterations": 10368,
+            "test_acc": 0.9979166388511658
+        },
+        "rafael_krstacic": {
+            "iterations": 23733,
+            "test_acc": 1.0
+        }
+    },
+    "0.5": {
+        "robert_sajina": {
+            "iterations": 28662,
+            "test_acc": 1.0
+        },
+        "romeo_sajina": {
+            "iterations": 27438,
+            "test_acc": 1.0
+        },
+        "alesandro_zuzic": {
+            "iterations": 8262,
+            "test_acc": 0.9993055462837219
+        },
+        "luka_blaskovic": {
+            "iterations": 28662,
+            "test_acc": 0.9990741014480591
+        },
+        "laura_loncaric": {
+            "iterations": 26826,
+            "test_acc": 1.0
+        },
+        "matej_visnjic": {
+            "iterations": 9384,
+            "test_acc": 0.9988425970077515
+        },
+        "matija_hamer": {
+            "iterations": 31008,
+            "test_acc": 1.0
+        },
+        "rafael_krstacic": {
+            "iterations": 17034,
+            "test_acc": 1.0
+        }
+    },
+    "0.6": {
+        "robert_sajina": {
+            "iterations": 27450,
+            "test_acc": 0.9997684955596924
+        },
+        "romeo_sajina": {
+            "iterations": 30134,
+            "test_acc": 1.0
+        },
+        "alesandro_zuzic": {
+            "iterations": 11712,
+            "test_acc": 0.9997684955596924
+        },
+        "luka_blaskovic": {
+            "iterations": 22936,
+            "test_acc": 1.0
+        },
+        "laura_loncaric": {
+            "iterations": 14884,
+            "test_acc": 0.9990741014480591
+        },
+        "matej_visnjic": {
+            "iterations": 8906,
+            "test_acc": 0.9988425970077515
+        },
+        "matija_hamer": {
+            "iterations": 29158,
+            "test_acc": 1.0
+        },
+        "rafael_krstacic": {
+            "iterations": 15128,
+            "test_acc": 1.0
+        }
+    },
+    "0.7": {
+        "robert_sajina": {
+            "iterations": 32518,
+            "test_acc": 1.0
+        },
+        "romeo_sajina": {
+            "iterations": 27406,
+            "test_acc": 1.0
+        },
+        "alesandro_zuzic": {
+            "iterations": 19454,
+            "test_acc": 1.0
+        },
+        "luka_blaskovic": {
+            "iterations": 16614,
+            "test_acc": 0.9997684955596924
+        },
+        "laura_loncaric": {
+            "iterations": 13632,
+            "test_acc": 0.9990741014480591
+        },
+        "matej_visnjic": {
+            "iterations": 21584,
+            "test_acc": 1.0
+        },
+        "matija_hamer": {
+            "iterations": 33938,
+            "test_acc": 1.0
+        },
+        "rafael_krstacic": {
+            "iterations": 30388,
+            "test_acc": 1.0
+        }
+    },
+    "0.8": {
+        "robert_sajina": {
+            "iterations": 27864,
+            "test_acc": 1.0
+        },
+        "romeo_sajina": {
+            "iterations": 29160,
+            "test_acc": 1.0
+        },
+        "alesandro_zuzic": {
+            "iterations": 17334,
+            "test_acc": 1.0
+        },
+        "luka_blaskovic": {
+            "iterations": 27216,
+            "test_acc": 1.0
+        },
+        "laura_loncaric": {
+            "iterations": 34830,
+            "test_acc": 1.0
+        },
+        "matej_visnjic": {
+            "iterations": 32724,
+            "test_acc": 1.0
+        },
+        "matija_hamer": {
+            "iterations": 34668,
+            "test_acc": 1.0
+        },
+        "rafael_krstacic": {
+            "iterations": 30132,
+            "test_acc": 1.0
+        }
+    },
+    "0.9": {
+        "robert_sajina": {
+            "iterations": 30561,
+            "test_acc": 1.0
+        },
+        "romeo_sajina": {
+            "iterations": 27999,
+            "test_acc": 1.0
+        },
+        "alesandro_zuzic": {
+            "iterations": 11346,
+            "test_acc": 1.0
+        },
+        "luka_blaskovic": {
+            "iterations": 33306,
+            "test_acc": 1.0
+        },
+        "laura_loncaric": {
+            "iterations": 36417,
+            "test_acc": 1.0
+        },
+        "matej_visnjic": {
+            "iterations": 32391,
+            "test_acc": 1.0
+        },
+        "matija_hamer": {
+            "iterations": 34404,
+            "test_acc": 1.0
+        },
+        "rafael_krstacic": {
+            "iterations": 30744,
+            "test_acc": 1.0
+        }
+    },
+    "1": {
+        "robert_sajina": {
+            "iterations": 34713,
+            "test_acc": 1.0
+        },
+        "romeo_sajina": {
+            "iterations": 27811,
+            "test_acc": 1.0
+        },
+        "alesandro_zuzic": {
+            "iterations": 28014,
+            "test_acc": 1.0
+        },
+        "luka_blaskovic": {
+            "iterations": 34713,
+            "test_acc": 1.0
+        },
+        "laura_loncaric": {
+            "iterations": 36337,
+            "test_acc": 1.0
+        },
+        "matej_visnjic": {
+            "iterations": 31465,
+            "test_acc": 1.0
+        },
+        "matija_hamer": {
+            "iterations": 31871,
+            "test_acc": 1.0
+        },
+        "rafael_krstacic": {
+            "iterations": 31668,
+            "test_acc": 1.0
+        }
+    }
+}
