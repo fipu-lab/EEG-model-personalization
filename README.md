@@ -17,3 +17,7 @@ Our findings underscore the importance of personalized modeling approaches tailo
 All experiments are contained within the [Personalization.ipynb](Personalization.ipynb) notebook and the results are explored in [Results.ipynb](Results.ipynb) notebook.
 
 Before running the training, you need to download data from the [google drive](https://drive.google.com/drive/folders/1aMRkk7fKuDgmLysBC4WdmcfZvLqYt3MO?usp=sharing) and place it in the `data` directory.
+
+
+# Dependencies
+The code utilizes the [tfkan](https://github.com/ZPZhou-lab/tfkan/) repository for KAN layers.
