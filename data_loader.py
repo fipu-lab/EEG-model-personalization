@@ -2,7 +2,9 @@ import numpy as np
 import os
 
 
-def read_data(directory_path="data/", label=0):
+def read_data(directory_path="data/", label=0, seed=None):
+    if seed is not None:
+        np.random.seed(seed)
     x = []
     for item in os.listdir(directory_path):
         if item.startswith('.'):
@@ -14,7 +16,9 @@ def read_data(directory_path="data/", label=0):
     return x, y
 
 
-def load_data(directory_paths="data/", labels=[], window_size=1, shape=(1, 60, 16), shuffle=True):
+def load_data(directory_paths="data/", labels=[], window_size=1, shape=(1, 60, 16), shuffle=True, seed=None):
+    if seed is not None:
+        np.random.seed(seed)
     for s in shape:
         assert s in [60, 16, 1]
 
